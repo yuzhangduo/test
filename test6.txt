@@ -1,1 +1,1 @@
-test6.txx
+test6.txt
