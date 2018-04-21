@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test6
 =======
 test6.txt
+>>>>>>> feature_y
+=======
+test6.txty
 >>>>>>> feature_y
